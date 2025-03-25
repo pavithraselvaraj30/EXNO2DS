@@ -1,4 +1,4 @@
-# EXNO2DS-Exploratory Data Analysis
+# EXNO:2 DS-Exploratory Data Analysis
 # AIM:
       To perform Exploratory Data Analysis on the given data set.
       
